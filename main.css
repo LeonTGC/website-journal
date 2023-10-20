@@ -98,9 +98,9 @@ nav > ul > li > a {
 }
 @media screen and (min-device-width: 768px) 
     and (max-device-width: 1024px) {
-    /* main {
+    main {
         background-color: orange; 
-    } */
+    }
     #page {
         box-sizing: border-box;
         max-width: 600px;
@@ -135,9 +135,9 @@ nav > ul > li > a {
 }
 
 @media screen and (min-width: 1024px) {
-    /* main {
+    main {
         background-color: #63c971;
-    } */
+    }
     #page {
         box-sizing: border-box;
         max-width: 900px;
